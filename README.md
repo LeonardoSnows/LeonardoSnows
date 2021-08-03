@@ -1,4 +1,4 @@
-# System.out.print(" Hi my name is Leonardo Bonifacio, nice to meet you ✌");
+# System.out.print(" Hi my name is Leonardo Bonifacio, nice to meet you ✌"); 
 
 
 - 🌱 I’m currently learning Java and SQL
@@ -21,5 +21,5 @@
   ##
 <div> 
   <a href="https://www.instagram.com/leonardsnows/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-bonifacio-neves-04a343191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/leonardo-bonifacio-neves-04a343191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
