@@ -1,4 +1,4 @@
-# System.out.print(" Hi my name is Leonardo Bonifacio, nice to meet you ✌"); 
+## System.out.print(" Hi my name is Leonardo Bonifacio, nice to meet you ✌"); 
 
 
 - 🌱 I’m currently learning Java and SQL
