@@ -12,7 +12,7 @@ I make projects for fun and practice, it allows me to create nice and simple and
 - 📫 How to reach me: lbonifacioneves@gmail.com <br>
 - ⚡ Fun fact: Learning new things <br>
 
-<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/LeonardoSnows" width="600" /></a>
+<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/LeonardoSnows" width="500" /></a>
 
 <h2>Languagens that I Know</h2>
 
