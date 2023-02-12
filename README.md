@@ -16,6 +16,7 @@ I make projects for fun and practice, it allows me to create nice and simple and
 
 <h2>Languagens that I Know</h2>
 
-[![Java](https://img.shields.io/badge/Knows-Java-blue/?logo=Java&logoColor=warning&color=blue)](https://github.com/CodingAce123)
-[![HTML](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)](https://github.com/CodingAce123)
-[![Markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)](https://github.com/CodingAce123)
+[![Java](https://img.shields.io/badge/Knows-java-blue/?logo=java&logoColor=warning&color=blue)]()
+[![Angular](https://img.shields.io/badge/Knows-angular-blue/?logo=angular&logoColor=warning&color=red)]()
+[![Spring](https://img.shields.io/badge/Knows-spring-green/?logo=spring5&logoColor=warning&color=green)]()
+[![SQL](https://img.shields.io/badge/Knows-sql-FFF/?logo=sql&logoColor=warning&color=white)]()
