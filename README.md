@@ -3,14 +3,11 @@
 <h1 align="center">I'm Java software developer
 I make projects for fun and practice, it allows me to create nice and simple and practice my skills.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h2> About me: </h2>
-- 🔭 I’m currently working on my TCC<br>
 - 🌱 I’m currently learning Java, Spring and Angular <br>
-- 💬 Ask me about anything :D <br>
 - 📫 How to reach me: lbonifacioneves@gmail.com <br>
-- ⚡ Fun fact: Learning new things <br>
 
 <a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/LeonardoSnows" width="500" /></a>
 
