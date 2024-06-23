@@ -9,11 +9,9 @@ I make projects for fun and practice, it allows me to create nice and simple and
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Deve formado no curso de ADS (Analise e desenvolvimento de sistemas) 
+- Linguagem principal é Java, junto ao framework Spring Boot
+- Apaixonado por desenvolvimento de novas solucoes
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
