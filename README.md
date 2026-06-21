@@ -41,6 +41,7 @@ Hi! I'm Leonardo, a **Full Stack Software Engineer** focused on developing scala
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 ### ⚙️ DevOps, Infra & Tools
